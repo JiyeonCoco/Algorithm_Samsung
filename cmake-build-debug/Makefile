@@ -123,32 +123,32 @@ SamsungSW/fast:
 	$(MAKE) -f CMakeFiles/SamsungSW.dir/build.make CMakeFiles/SamsungSW.dir/build
 .PHONY : SamsungSW/fast
 
-1227.o: 1227.cpp.o
+1259.o: 1259.cpp.o
 
-.PHONY : 1227.o
+.PHONY : 1259.o
 
 # target to build an object file
-1227.cpp.o:
-	$(MAKE) -f CMakeFiles/SamsungSW.dir/build.make CMakeFiles/SamsungSW.dir/1227.cpp.o
-.PHONY : 1227.cpp.o
+1259.cpp.o:
+	$(MAKE) -f CMakeFiles/SamsungSW.dir/build.make CMakeFiles/SamsungSW.dir/1259.cpp.o
+.PHONY : 1259.cpp.o
 
-1227.i: 1227.cpp.i
+1259.i: 1259.cpp.i
 
-.PHONY : 1227.i
+.PHONY : 1259.i
 
 # target to preprocess a source file
-1227.cpp.i:
-	$(MAKE) -f CMakeFiles/SamsungSW.dir/build.make CMakeFiles/SamsungSW.dir/1227.cpp.i
-.PHONY : 1227.cpp.i
+1259.cpp.i:
+	$(MAKE) -f CMakeFiles/SamsungSW.dir/build.make CMakeFiles/SamsungSW.dir/1259.cpp.i
+.PHONY : 1259.cpp.i
 
-1227.s: 1227.cpp.s
+1259.s: 1259.cpp.s
 
-.PHONY : 1227.s
+.PHONY : 1259.s
 
 # target to generate assembly for a file
-1227.cpp.s:
-	$(MAKE) -f CMakeFiles/SamsungSW.dir/build.make CMakeFiles/SamsungSW.dir/1227.cpp.s
-.PHONY : 1227.cpp.s
+1259.cpp.s:
+	$(MAKE) -f CMakeFiles/SamsungSW.dir/build.make CMakeFiles/SamsungSW.dir/1259.cpp.s
+.PHONY : 1259.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... SamsungSW"
-	@echo "... 1227.o"
-	@echo "... 1227.i"
-	@echo "... 1227.s"
+	@echo "... 1259.o"
+	@echo "... 1259.i"
+	@echo "... 1259.s"
 .PHONY : help
 
 

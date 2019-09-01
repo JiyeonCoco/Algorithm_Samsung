@@ -3,4 +3,4 @@ project(SamsungSW)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(SamsungSW 1227.cpp)
+add_executable(SamsungSW 1259.cpp)

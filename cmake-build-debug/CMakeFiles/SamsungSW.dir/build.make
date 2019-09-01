@@ -57,27 +57,27 @@ include CMakeFiles/SamsungSW.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/SamsungSW.dir/flags.make
 
-CMakeFiles/SamsungSW.dir/1227.cpp.o: CMakeFiles/SamsungSW.dir/flags.make
-CMakeFiles/SamsungSW.dir/1227.cpp.o: ../1227.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jungjiyeon/CLionProjects/SamsungSW/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/SamsungSW.dir/1227.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SamsungSW.dir/1227.cpp.o -c /Users/jungjiyeon/CLionProjects/SamsungSW/1227.cpp
+CMakeFiles/SamsungSW.dir/1259.cpp.o: CMakeFiles/SamsungSW.dir/flags.make
+CMakeFiles/SamsungSW.dir/1259.cpp.o: ../1259.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jungjiyeon/CLionProjects/SamsungSW/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/SamsungSW.dir/1259.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SamsungSW.dir/1259.cpp.o -c /Users/jungjiyeon/CLionProjects/SamsungSW/1259.cpp
 
-CMakeFiles/SamsungSW.dir/1227.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SamsungSW.dir/1227.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jungjiyeon/CLionProjects/SamsungSW/1227.cpp > CMakeFiles/SamsungSW.dir/1227.cpp.i
+CMakeFiles/SamsungSW.dir/1259.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SamsungSW.dir/1259.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jungjiyeon/CLionProjects/SamsungSW/1259.cpp > CMakeFiles/SamsungSW.dir/1259.cpp.i
 
-CMakeFiles/SamsungSW.dir/1227.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SamsungSW.dir/1227.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jungjiyeon/CLionProjects/SamsungSW/1227.cpp -o CMakeFiles/SamsungSW.dir/1227.cpp.s
+CMakeFiles/SamsungSW.dir/1259.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SamsungSW.dir/1259.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jungjiyeon/CLionProjects/SamsungSW/1259.cpp -o CMakeFiles/SamsungSW.dir/1259.cpp.s
 
 # Object files for target SamsungSW
 SamsungSW_OBJECTS = \
-"CMakeFiles/SamsungSW.dir/1227.cpp.o"
+"CMakeFiles/SamsungSW.dir/1259.cpp.o"
 
 # External object files for target SamsungSW
 SamsungSW_EXTERNAL_OBJECTS =
 
-SamsungSW: CMakeFiles/SamsungSW.dir/1227.cpp.o
+SamsungSW: CMakeFiles/SamsungSW.dir/1259.cpp.o
 SamsungSW: CMakeFiles/SamsungSW.dir/build.make
 SamsungSW: CMakeFiles/SamsungSW.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/jungjiyeon/CLionProjects/SamsungSW/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable SamsungSW"
