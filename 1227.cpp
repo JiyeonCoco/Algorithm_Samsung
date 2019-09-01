@@ -71,4 +71,5 @@ int main()
 
         std::cout << "#" << T << " " << answer << endl;
     }
+
 }

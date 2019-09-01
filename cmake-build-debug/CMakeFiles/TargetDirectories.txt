@@ -1,0 +1,3 @@
+/Users/jungjiyeon/CLionProjects/SamsungSW/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jungjiyeon/CLionProjects/SamsungSW/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jungjiyeon/CLionProjects/SamsungSW/cmake-build-debug/CMakeFiles/SamsungSW.dir
