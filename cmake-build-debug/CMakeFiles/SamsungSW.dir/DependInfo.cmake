@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/jungjiyeon/CLionProjects/SamsungSW/1259.cpp" "/Users/jungjiyeon/CLionProjects/SamsungSW/cmake-build-debug/CMakeFiles/SamsungSW.dir/1259.cpp.o"
+  "/Users/jungjiyeon/CLionProjects/SamsungSW/1210.cpp" "/Users/jungjiyeon/CLionProjects/SamsungSW/cmake-build-debug/CMakeFiles/SamsungSW.dir/1210.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

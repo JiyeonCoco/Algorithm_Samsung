@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/SamsungSW.dir/1259.cpp.o"
+  "CMakeFiles/SamsungSW.dir/1210.cpp.o"
   "SamsungSW.pdb"
   "SamsungSW"
 )
