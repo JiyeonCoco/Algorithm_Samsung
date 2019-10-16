@@ -14,7 +14,6 @@
     <list default="true" id="35af12f3-32e1-4878-89c7-cf4a90b0c77a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SamsungSW.dir/1210.cpp.o" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SamsungSW.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SamsungSW.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SamsungSW.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SamsungSW.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SamsungSW.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SamsungSW.dir/build.make" afterDir="false" />
@@ -89,7 +88,8 @@
       <workItem from="1569161573497" duration="1906000" />
       <workItem from="1569415735989" duration="138000" />
       <workItem from="1569478300891" duration="939000" />
-      <workItem from="1570092184238" duration="15247000" />
+      <workItem from="1570092184238" duration="22659000" />
+      <workItem from="1571134988754" duration="21882000" />
     </task>
     <servers />
   </component>
@@ -112,10 +112,10 @@
   <component name="XDebuggerManager">
     <watches-manager>
       <configuration name="CMakeRunConfiguration">
-        <watch expression="q" language="ObjectiveC" />
-        <watch expression="input[i]" language="ObjectiveC" />
-        <watch expression="q.back()" language="ObjectiveC" />
-        <watch expression="q.empty()" language="ObjectiveC" />
+        <watch expression="table[day][0]" language="ObjectiveC" />
+        <watch expression="table[day][1]" language="ObjectiveC" />
+        <watch expression="N" language="ObjectiveC" />
+        <watch expression="maxCost" language="ObjectiveC" />
       </configuration>
     </watches-manager>
   </component>

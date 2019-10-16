@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/jungjiyeon/CLionProjects/SamsungSW/1211.cpp
+/Users/jungjiyeon/CLionProjects/SamsungSW/14889.cpp
 iostream
 -
-climits
+algorithm
 -
-queue
+climits
 -
 
